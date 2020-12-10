@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/XamarinPoC/XamarinPoC/bin/Debug/netstandard2.0
+/XamarinPoC/XamarinPoC/obj
+/XamarinPoC/XamarinPoC.Android/obj
+/XamarinPoC/XamarinPoC.iOS/bin/iPhone/Debug
+/XamarinPoC/XamarinPoC.iOS/obj
